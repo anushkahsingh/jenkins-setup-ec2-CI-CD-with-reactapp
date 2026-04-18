@@ -36,7 +36,7 @@ export default function About() {
           {/* LEFT */}
           <div className="about-text">
             <p>
-              I'm <strong style={{ color: 'var(--text-primary)' }}>Md Shadab Azam Ansari</strong> — a
+              I'm <strong style={{ color: 'var(--text-primary)' }}>Anushka Singh</strong> — a
               Software Engineer, Cloud Engineer, and DevOps practitioner based in India.
               I specialize in designing, deploying, and automating scalable cloud-native
               architectures on AWS.
