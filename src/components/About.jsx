@@ -29,7 +29,7 @@ export default function About() {
         <div className="badge">⚡ About Me</div>
         <h2 className="section-title">Who Am I?</h2>
         <p className="section-subtitle">
-          A passionate engineer who loves building things that scale.
+          A passionate engineer who loves building things that scale and work.
         </p>
 
         <div className="about-grid">
