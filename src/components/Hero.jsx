@@ -61,7 +61,7 @@ export default function Hero() {
             <p className="hero-greeting">Hello, World! 👋</p>
 
             <h1 className="hero-name">
-              Md Shadab<br />
+              Anushka Singh<br />
               <span style={{ background: 'var(--gradient-hero)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', backgroundClip: 'text' }}>
                 Azam Ansari
               </span>
